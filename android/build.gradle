@@ -36,6 +36,6 @@ repositories {
 dependencies {
     compile 'com.facebook.react:react-native:+'
     compile group: 'org.jetbrains', name: 'annotations', version: '13.0'
-    implementation 'com.github.Haseeba393:tus-java-client:main'
+    implementation 'https://github.com/Haseeba393/tus-java-client'
     implementation 'io.tus.android.client:tus-android-client:0.1.9'
 }
