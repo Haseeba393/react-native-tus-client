@@ -21,10 +21,10 @@
   "author": "Vincenzo Scamporlino",
   "repository": {
     "type": "git",
-    "url": "git://github.com/saddad1/react-native-tus-client"
+    "url": "git://github.com/Haseeba393/react-native-tus-client"
   },
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "~0.41.2"
   }
 }
